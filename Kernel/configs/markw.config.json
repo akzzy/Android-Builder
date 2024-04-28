@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi4",
-      "repo": "https://github.com/SonicBSV/android_kernel_xiaomi_markw-4.9",
-      "branch": "master",
-      "device": "markw",
-      "defconfig": "markw_defconfig"
+      "name": "blueline",
+      "repo": "https://github.com/KanishkTheDerp/msm-4.9",
+      "branch": "ksu/master",
+      "device": "bluecross",
+      "defconfig": "b1c1_defconfig"
     },
     "toolchains": [
       {
