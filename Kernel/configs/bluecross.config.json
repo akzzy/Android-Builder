@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "blueline",
-      "repo": "https://github.com/KanishkTheDerp/msm-4.9",
-      "branch": "ksu/master",
+      "repo": "https://github.com/alexismdr/android_kernel_google_bluecross_ksu",
+      "branch": "unity",
       "device": "bluecross",
       "defconfig": "b1c1_defconfig"
     },
